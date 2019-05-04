@@ -1,0 +1,4 @@
+#Sat May 04 13:29:17 BRT 2019
+base.0=/Users/carlos/Documents/MyProducts/EnglishGame/android/app/build/intermediates/transforms/dexMerger/devKernel/debug/9
+path.0=classes.dex
+renamed.0=classes.dex
