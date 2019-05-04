@@ -25,6 +25,7 @@ public class AppConstants {
 
     
         
+        
         // ADD EMBEDDED RESPONSES HERE
         // START EMBEDDED RESPONSES
         embeddedResponses.add(new Constants.EmbeddedResponse("https://exp.host/@analistacarlosh/EnglishGame", "assets://shell-app-manifest.json", "application/json"));
