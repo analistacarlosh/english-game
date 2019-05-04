@@ -1,21 +1,19 @@
 import React from 'react';
-import {SttleSheet, Text, View } from 'react-native';
-
-export default class Main extends React.Component {
+import {StyleSheet, Text, View } from 'react-native';
+export default class LoginScreen extends React.Component {
     render() {
         return (
             <View style={styles.container}>
-                <Text> Main Screen </Text>
+                <Text> Login Screen </Text>
             </View>
         );
     }
 }
-
-const styles = StylesSheet.create({
+const styles = StyleSheet.create({
     container: {
         flex: 1,
         backgroundColor: '#fff',
         alignItems: 'center',
         justifyContent: 'center',
-    },
+    }
 });
